@@ -264,6 +264,8 @@ function get20s(array) {
 }
 
 console.log(get20s(artists))
+
+// testing split and number methods
 // let birthYear = Number(artists[0].years.split('-')[0])
 // console.log(`birth year`, birthYear);
 
