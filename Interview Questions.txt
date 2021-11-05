@@ -6,15 +6,15 @@
 
 2. Talk about 3 different things you can do to ensure your website is accessible. 
 
--To ensure that a website is accessible font sizes should be in a scalable measurement like rems or ems, alt text should be utilized with accurate descriptions, and semantic HTML should ensure that the structure and content of the website is properly organized.  Additionally , other details should be taken into consideration such as color, contrast, and page placement.
+-To ensure that a website is accessible font sizes should be in a scalable measurement like rems or ems, alt text should be utilized with accurate descriptions, and semantic HTML should ensure that the structure and content of the website is properly organized.  Additionally , other details should be taken into consideration such as color and contrast, and page placement.
 
 3. How would you explain the concept of a variable to someone new to programming?
 
--A variable is a container that holds any data type and can be used to reference the data it is holding.
+-A variable is a container that holds any data type and can be used to reference the data it is holding. Variables can be given descriptive names to help programmers easily understand what data the variable is referencing and what the code is doing.
 
 4. What is the purpose of using functions in code?
 
--Functions instruct the code to do something.  They help to simplify things by allowing the programmer to type the steps to complete a task once and reuse the code to complete the same task many times with different data.
+-Functions instruct the code to do something.  They help to simplify things by allowing the programmer to type the steps to complete a task in one block of code and reuse the code to complete the same task many times with different data.
 
 5. How do you access a key inside of an object inside of an array?
 
